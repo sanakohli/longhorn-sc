@@ -9,9 +9,9 @@ Inspired by plaintext-style sports dashboards, this project prioritizes:
 
 ---
 
-## ✨ Features
+## Features
 
-### 🗓 Unified Events Feed
+### Unified Events Feed
 - Aggregates major Texas Longhorns sports into one view
 - Currently supports:
   - Men’s Basketball (MBB)
@@ -24,7 +24,7 @@ Inspired by plaintext-style sports dashboards, this project prioritizes:
 
 ---
 
-### 🔍 Filtering
+### Filtering
 - **Sport**: multi-select (MBB, WBB)
 - **Location**: multi-select (Home, Away, Neutral)
 - **Time**: This Week or All games
@@ -32,7 +32,7 @@ Inspired by plaintext-style sports dashboards, this project prioritizes:
 
 ---
 
-### 📅 Per-Game Calendar Export
+### Per-Game Calendar Export
 - Click the calendar icon next to any game
 - Downloads a single `.ics` calendar event
 - Works with:
@@ -44,14 +44,14 @@ Inspired by plaintext-style sports dashboards, this project prioritizes:
 
 ---
 
-### 🧼 Clean, Readable UI
+### Clean, Readable UI
 - Plaintext-inspired layout
 - Keyboard & screen-reader friendly
 - Designed for quick scanning on desktop or mobile
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend**: Next.js (App Router) + React
 - **Styling**: Tailwind CSS
@@ -59,10 +59,3 @@ Inspired by plaintext-style sports dashboards, this project prioritizes:
 - **Calendar**: `.ics` generation (RFC 5545 compliant)
 - **Icons**: lucide-react
 
----
-
-## 🚀 Getting Started
-
-### 1. Install dependencies
-```bash
-npm install
