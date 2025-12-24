@@ -1,0 +1,32 @@
+G,Date,Time,Type,,Opponent,Conf,SRS,,Tm,Opp,OT,W,L,Streak,Arena
+1,Tue Nov 4 2025,8:45p,REG,N,Duke (6),ACC,29.75,L,60,75,,0,1,L 1,Spectrum Center
+2,Sat Nov 8 2025,3:00p,REG,,Lafayette,Patriot,-14.75,W,97,60,,1,1,W 1,Moody Center
+3,Wed Nov 12 2025,8:00p,REG,,FDU,NEC,-19.81,W,93,58,,2,1,W 2,Moody Center
+4,Sat Nov 15 2025,1:00p,REG,,Kansas City,Summit,-13.33,W,71,55,,3,1,W 3,Moody Center
+5,Tue Nov 18 2025,9:00p,REG,,Rider,MAAC,-19.77,W,99,65,,4,1,W 4,Moody Center
+6,Mon Nov 24 2025,11:30p,REG,N,Arizona State,Big 12,9.93,L,86,87,,4,2,L 1,Lahaina Civic Center
+7,Tue Nov 25 2025,10:30p,REG,N,Chaminade,,,W,119,78,,5,2,W 1,Lahaina Civic Center
+8,Wed Nov 26 2025,9:30p,REG,N,NC State (23),ACC,21.58,W,102,97,,6,2,W 2,Lahaina Civic Center
+9,Wed Dec 3 2025,9:15p,REG,,Virginia,ACC,19.03,L,69,88,,6,3,L 1,Moody Center
+10,Mon Dec 8 2025,8:00p,REG,,Southern,SWAC,-11.01,W,95,69,,7,3,W 1,Moody Center
+11,Fri Dec 12 2025,8:00p,REG,@,Connecticut (5),Big East,26.00,L,63,71,,7,4,L 1,PeoplesBank Arena
+12,Tue Dec 16 2025,8:00p,REG,,Le Moyne,NEC,-12.69,W,95,53,,8,4,W 1,Moody Center
+13,Mon Dec 22 2025,8:00p,REG,,Maryland-Eastern Shore,MEAC,-16.42,W,94,71,,9,4,W 2,Moody Center
+14,Sat Jan 3 2026,6:00p,REG,,Mississippi State,SEC,6.54,,,,,,,,Moody Center
+15,Tue Jan 6 2026,9:00p,REG,@,Tennessee (20),SEC,21.93,,,,,,,,Thompson-Boling Arena
+16,Sat Jan 10 2026,,REG,@,Alabama (16),SEC,24.34,,,,,,,,Coleman Coliseum
+17,Wed Jan 14 2026,9:00p,REG,,Vanderbilt (13),SEC,26.18,,,,,,,,Moody Center
+18,Sat Jan 17 2026,6:00p,REG,,Texas A&M,SEC,14.71,,,,,,,,Moody Center
+19,Wed Jan 21 2026,7:00p,REG,@,Kentucky,SEC,24.62,,,,,,,,Rupp Arena
+20,Sat Jan 24 2026,1:00p,REG,,Georgia (25),SEC,24.59,,,,,,,,Moody Center
+21,Wed Jan 28 2026,7:00p,REG,@,Auburn (21),SEC,16.18,,,,,,,,Auburn Arena
+22,Sat Jan 31 2026,2:00p,REG,@,Oklahoma,SEC,13.60,,,,,,,,Lloyd Noble Center
+23,Tue Feb 3 2026,7:00p,REG,,South Carolina,SEC,7.74,,,,,,,,Moody Center
+24,Sat Feb 7 2026,2:00p,REG,,Mississippi,SEC,9.39,,,,,,,,Moody Center
+25,Sat Feb 14 2026,8:30p,REG,@,Missouri,SEC,8.67,,,,,,,,Mizzou Arena
+26,Tue Feb 17 2026,9:00p,REG,,Louisiana State,SEC,15.96,,,,,,,,Moody Center
+27,Sat Feb 21 2026,3:30p,REG,@,Georgia (25),SEC,24.59,,,,,,,,Stegeman Coliseum
+28,Wed Feb 25 2026,7:00p,REG,,Florida (23),SEC,21.71,,,,,,,,Moody Center
+29,Sat Feb 28 2026,4:00p,REG,@,Texas A&M,SEC,14.71,,,,,,,,Reed Arena
+30,Wed Mar 4 2026,7:00p,REG,@,Arkansas (14),SEC,20.93,,,,,,,,Bud Walton Arena
+31,Sat Mar 7 2026,8:30p,REG,,Oklahoma,SEC,13.60,,,,,,,,Moody Center
